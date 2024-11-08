@@ -1,9 +1,7 @@
-Resumo do Lab Microsoft Azure
+Resumo sobre: Microsoft Azure 
 
-Eu aprendi que o Microsoft Azure organiza uma ampla gama de serviços em categorias, como Análise, facilitando o acesso a recursos específicos no console. O SLA define a disponibilidade dos serviços, com opções de redundância para garantir alta disponibilidade.
+O Microsoft Azure organiza seus serviços em categorias, como Análise, para facilitar o acesso a ferramentas específicas, como o HDInsight e Data Factories. O SLA (Service Level Agreement) define a disponibilidade de serviço, oferecendo níveis como 99% e 99,9%, que reduzem o tempo de inatividade para poucos minutos semanais. Ao criar máquinas virtuais, o Azure permite configurar redundância geográfica para garantir resiliência e estimar os custos de uso, incluindo recursos como reinício automático e monitoramento.
 
-Ao configurar máquinas virtuais, é possível estimar custos e ajustar opções como monitoramento e redundância. O Azure também oferece opções de armazenamento com diferentes níveis de redundância (LRS, GRS, ZRS), ajustáveis para melhorar o desempenho e segurança.
+Para armazenamento, o Azure oferece opções como LRS, GRS e ZRS, com diferentes níveis de redundância e recursos como rede e criptografia. O gerenciamento de identidades é feito pelo Entra ID, que define permissões e controle de acessos, enquanto o Defender for Cloud monitora a segurança do ambiente. Ferramentas de migração, como AZ Copy e Azure Data Box, facilitam a transferência de dados para a nuvem, com limites de até 800 TB em modalidades específicas.
 
-Ferramentas de identidade e segurança, como o Entra ID e o Defender for Cloud, ajudam a gerenciar permissões e proteger o ambiente. Além disso, calculadoras de custos auxiliam no planejamento financeiro.
-
-Para automação e monitoramento, ferramentas como Cloud Shell, Azure Monitor e Advisor garantem um ambiente eficiente e seguro.
+As calculadoras de custo do Azure, incluindo a TCO (Total Cost Ownership), ajudam as empresas a planejar despesas e reduzir custos inesperados. Ferramentas como Cloud Shell e Bicep facilitam automação e execução de comandos, enquanto o Azure Arc gerencia recursos externos. O Azure também oferece várias ferramentas de monitoramento, como o Azure Monitor e Service Health, para verificar a saúde dos serviços e otimizar a infraestrutura, garantindo um ambiente seguro e eficiente.
